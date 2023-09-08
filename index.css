@@ -50,7 +50,7 @@ p{
 
 @media (max-width:500px){
     .container{
-        width: 300px;
-        margin: 80px auto;
+        width: 350px;
+        margin: 130px auto;
     }
 }
